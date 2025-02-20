@@ -1,0 +1,1 @@
+This repo only contains the presentation results (code is confidential, done for an internship) of the construction of a US database gathering over 150 financial ratios for +6000 firms spanning 70 years from WRDS, used in the paper of Kozak, Nagel and Santosh (2020) "Shrinking the cross-section"
